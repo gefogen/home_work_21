@@ -1,5 +1,5 @@
-from storage import Storage
-from exceptions import *
+from classes.storage import Storage
+from classes.exceptions import *
 
 class Shop(Storage):
     def __init__(self) -> None:

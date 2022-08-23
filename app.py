@@ -1,8 +1,8 @@
-from request import Request, check_request
-from shop import Shop
-from store import Store
-from exceptions import *
-from settings import *
+from classes.request import Request, check_request
+from classes.shop import Shop
+from classes.store import Store
+from classes.exceptions import *
+from classes.settings import *
 
 
 
